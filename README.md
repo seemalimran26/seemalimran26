@@ -23,7 +23,7 @@ Currently, I'm focused on strengthening my **full-stack development skills** and
 
 ## 🧰 Tech Stack
 
-### Frontend
+### 🎨 Frontend
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -33,7 +33,7 @@ Currently, I'm focused on strengthening my **full-stack development skills** and
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
-### Backend
+### ⚙️ Backend
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -42,7 +42,7 @@ Currently, I'm focused on strengthening my **full-stack development skills** and
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
-### Database & Tools
+### 🗄️ Database & Tools
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -112,10 +112,20 @@ A responsive perfume website designed with a clean and attractive interface, foc
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=seemalimran26&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seemalimran26&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-## 🔥 What I'm Working On
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=seemalimran26&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 💻 What I'm Working On
 
 ```text
 ▸ Improving my React & JavaScript skills
@@ -141,22 +151,16 @@ A responsive perfume website designed with a clean and attractive interface, foc
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seemalimran26E&theme=tokyonight&hide_border=true"/>
-</p>
-
 ## 🤝 Let's Connect
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/seemal-imran/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="YOUR_PORTFOLIO_URL">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:seemalqureshi26">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
