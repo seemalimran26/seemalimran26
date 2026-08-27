@@ -153,4 +153,3 @@ A responsive perfume website designed with a clean and attractive interface, foc
 
 ### 💡 *"Building, learning, and improving one project at a time."*
 
-⭐ If you find my projects interesting, feel free to explore my repositories!
