@@ -92,14 +92,6 @@ An AI-powered web application designed to analyze resumes and help match candida
 
 ---
 
-### 🎬 Streamal
-
-A movie streaming website created as a frontend web development project with a focus on clean layouts and responsive design.
-
-**Built with:** `HTML` `CSS` `JavaScript`
-
----
-
 ### 🌸 Aroma Valley
 
 A responsive perfume website designed with a clean and attractive interface, focusing on visual presentation and frontend design.
@@ -141,7 +133,7 @@ A responsive perfume website designed with a clean and attractive interface, foc
   <a href="https://www.linkedin.com/in/seemal-imran/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://seemalimran26.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:seemalqureshi26">
