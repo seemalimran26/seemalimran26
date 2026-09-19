@@ -1,147 +1,180 @@
-# 👋 Hi, I'm Seemal Imran
 
-### 💻 BSIT Student · Full-Stack Developer in Progress · Tech Enthusiast
+# Hi, I'm Seemal Imran
 
-I'm a **BSIT student** passionate about turning ideas into functional, modern, and user-friendly web applications.
+### Full-Stack Web Developer | Laravel & PHP | Frontend Development
 
-I enjoy working across the stack — from designing responsive interfaces to building APIs, managing databases, and integrating intelligent features into applications.
-
-Currently, I'm focused on strengthening my **full-stack development skills** and building projects that solve real-world problems.
-
----
-
-## 🚀 About Me
-
-* 🎓 BSIT Student
-* 💻 Interested in **Full-Stack Web Development**
-* 🌱 Currently exploring **React, Node.js, Express & MongoDB**
-* 🤖 Interested in **AI-powered applications**
-* 🛠️ Enjoy building projects and learning through hands-on development
-* 🎯 Goal: Become a professional **Full-Stack Developer**
-
----
-
-## 🧰 Tech Stack
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
-
-### 🗄️ Database & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=seemalimran26&label=Profile%20Views&color=1dd9c8&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
+## About Me
 
-### 🛋️ Roomora — Furniture E-Commerce Platform
+I'm a BS Information Technology student and Full-Stack Web Developer focused on building responsive, user-friendly and practical web applications.
 
-A full-stack **Laravel furniture e-commerce platform** designed to provide a modern furniture shopping experience.
+I work with Laravel, PHP, MySQL, JavaScript, HTML, CSS, Tailwind CSS and Bootstrap.
 
-**Features:**
+I enjoy turning ideas into functional web experiences while continuously improving my development skills through projects, internships and hands-on development.
 
-* 🛒 Product management
-* 🏠 Room-based product filtering
-* 🔐 User authentication
-* 📊 Admin dashboard
-* 🖼️ Product galleries
-* 🧊 3D furniture visualization
-* 📱 AR furniture visualization
-* 💾 MySQL database integration
-
-**Built with:** `Laravel` `PHP` `MySQL` `Tailwind CSS`
+- Full-Stack Web Development
+- Laravel & PHP Development
+- Responsive Frontend Development
+- MySQL Database Development
+- JavaScript
+- UI Development
+- Authentication Systems
+- E-commerce Web Applications
 
 ---
 
-### 🤖 Smart Resume Screening System
+## Tech Stack
 
-An AI-powered web application designed to analyze resumes and help match candidates with job descriptions.
-
-**Features:**
-
-* 📄 Resume processing
-* 🔍 Resume analysis
-* 🎯 Job-description matching
-* 🤖 AI integration
-* 👤 User authentication
-* 📊 Resume match results
-
-**Built with:** `React` `Node.js` `Express.js` `MongoDB` `AI`
-
----
-
-### 🌸 Aroma Valley
-
-A responsive perfume website designed with a clean and attractive interface, focusing on visual presentation and frontend design.
-
-**Built with:** `HTML` `CSS`
-
----
-
-
-## 💻 What I'm Working On
-
-```text
-▸ Improving my React & JavaScript skills
-▸ Building full-stack applications
-▸ Working with REST APIs
-▸ Learning Node.js & Express
-▸ Exploring MongoDB
-▸ Experimenting with AI integrations
-▸ Improving my Git & GitHub workflow
-```
-
----
-
-## 🎯 2026 Goals
-
-* [ ] Become confident in full-stack development
-* [ ] Build more production-ready applications
-* [ ] Improve React & JavaScript expertise
-* [ ] Learn advanced backend development
-* [ ] Build AI-integrated web applications
-* [ ] Contribute to open-source projects
-* [ ] Create a professional developer portfolio
-
----
-
-## 🤝 Let's Connect
+### Frontend
 
 <p>
-  <a href="https://www.linkedin.com/in/seemal-imran/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://seemalimran26.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="mailto:seemalqureshi26">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## Featured Projects
+
+### Aroma Valley
+
+A responsive perfume website focused on clean frontend design, product presentation and user-friendly navigation.
+
+**Tech:** HTML, CSS
+
+[View Repository](https://github.com/seemalimran26/Aroma-Valley)
+
+---
+
+### AI Resume Screening
+
+An AI-based resume screening project designed to analyze resumes and assist with candidate evaluation.
+
+**Tech:** React, Firebase
+
+[View Repository](https://github.com/seemalimran26/AI-Resume-Screening)
+
+---
+
+### Personal Portfolio
+
+A personal portfolio website showcasing skills, projects, education and web development experience.
+
+**Tech:** HTML, CSS, JavaScript
+
+[View Repository](https://github.com/seemalimran26/Portfolio)
+
+---
+
+### TaskFlow Manager
+
+A task management project designed for creating, organizing and managing tasks through a simple web interface.
+
+**Tech:** HTML, CSS, JavaScript
+
+[View Repository](https://github.com/seemalimran26/TaskFlowManager)
+
+---
+
+
+## Development Focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-Development-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-Development-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Development-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Responsive-UI-1dd9c8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full--Stack-Web%20Development-0d1117?style=for-the-badge" />
+</p>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="./profile/github-profile.svg" alt="GitHub Profile Statistics" width="900" />
+</p>
+
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub Statistics" width="49%" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" width="49%" />
+</p>
+
+<p align="center">
+  <img src="./profile/streak.svg" alt="GitHub Contribution Streak" width="700" />
+</p>
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/seemalimran26">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=seemalimran26&theme=github-compact&hide_border=true&custom_title=Seemal%20Imran%27s%20GitHub%20Activity"
+      alt="Seemal Imran's GitHub Activity Graph"
+      width="900"
+    />
   </a>
 </p>
 
 ---
 
-### 💡 *"Building, learning, and improving one project at a time."*
+## Connect With Me
+
+<p align="left">
+  <a href="mailto:seemalqureshi26@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/seemalimran26">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## Profile
+
+<p align="center">
+  <a href="https://github.com/seemalimran26">
+    <img src="https://img.shields.io/github/followers/seemalimran26?label=Followers&style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/seemalimran26?tab=repositories">
+    <img src="https://img.shields.io/github/stars/seemalimran26?label=Total%20Stars&style=for-the-badge" />
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=seemalimran26&label=Profile%20Views&style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile.</b>
+</p>
+
+<p align="center">
+  Building. Learning. Improving.
+</p>
 
