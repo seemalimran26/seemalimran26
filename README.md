@@ -129,13 +129,11 @@ A task management project designed for creating, organizing and managing tasks t
 ## GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/seemalimran26">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=seemalimran26&theme=github-compact&hide_border=true&custom_title=Seemal%20Imran%27s%20GitHub%20Activity"
-      alt="Seemal Imran's GitHub Activity Graph"
-      width="900"
-    />
-  </a>
+  <img
+    src="https://raw.githubusercontent.com/seemalimran26/seemalimran26/output/activity-graph.svg"
+    alt="Seemal Imran's GitHub Activity Graph"
+    width="900"
+  />
 </p>
 
 ---
