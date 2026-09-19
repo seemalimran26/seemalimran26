@@ -1,7 +1,7 @@
 
 # Hi, I'm Seemal Imran
 
-### Full-Stack Web Developer | Laravel & PHP | Frontend Development
+### Full-Stack Web Developer | Laravel & PHP 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=seemalimran26&label=Profile%20Views&color=1dd9c8&style=flat" alt="Profile Views" />
